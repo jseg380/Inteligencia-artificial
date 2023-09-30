@@ -1,0 +1,16 @@
+practica1
+practica1SG
+lib
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.DS_Store
+build/
+Makefile
+Documentos
+.cmake
+**/.vscode
+.leaderboard_config
+run_leaderboard.sh
+ejecuciones.sh
+leaderboard.py

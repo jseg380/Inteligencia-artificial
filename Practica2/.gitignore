@@ -1,0 +1,16 @@
+practica2
+practica2SG
+lib
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.DS_Store
+build/
+Makefile
+.cmake
+compile_commands.json
+lib/
+Documentos
+**/.vscode
+**/.clangd
+**/.cache
